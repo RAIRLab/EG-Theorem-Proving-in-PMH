@@ -1,11 +1,11 @@
-name: github pages
+name: Test book build
 
 on:
-  push:
+  pull_request:
     branches: [ master ]
 
 jobs:
-  deploy:
+  test_if_buildable:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -19,8 +19,4 @@ jobs:
 
       - run: mdbook build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book
+      - run: mdbook clean
