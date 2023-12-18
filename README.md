@@ -10,3 +10,22 @@ Made with [mdBook](https://github.com/rust-lang/mdBook).
 
 Install rust, cargo and mdbook.
 Then, run "mdbook build" in the **root directory** and ensure the message "Running the html backend" appears.
+
+
+# Root Files and Folders
+
+```
+/.github/ : Builds and deploys the mdBook.
+
+/.vscode/ : Recommended extensions and settings for using VSCode as a text editor.
+
+/src/ : Markdown files that are built into the mdBook.
+
+/.gitignore : Files and directories that should not be updated with git version control.
+
+/book.toml : Config file for mdBook.
+
+/LICENSE : Legal jargon for who can buy and sell the book.
+
+/README.md : Information about the book and its contents. You are here!
+```
