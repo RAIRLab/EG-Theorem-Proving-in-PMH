@@ -1,0 +1,6 @@
+[book]
+authors = ["James Oswald, RAIR Lab, Ryan Reilly"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Existential Graph Theorem Proving in PMH"
