@@ -15,7 +15,6 @@ Then, run ```mdbook build``` in the **root directory** and ensure the message "R
 Then, in the newly created ./book/ directory on your machine, open "index.html" with your web browser of choice and determine
 if the format is to your liking.
 
-
 # Root Files and Folders
 
 ```

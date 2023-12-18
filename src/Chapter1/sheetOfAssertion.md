@@ -19,7 +19,7 @@ Since the EG System was developed during a time when a computer was an occupatio
 was a blank piece of paper. This form can be expanded to include any writable surface that maintains the information written.
 This includes whiteboards, blackboards and computer screens.
 Statements written on this surface are asserted as true, and if two separate statements are made,
-they are considered to be in *conjunction* with each other. To discuss this Jerry character further, the above statements
+they are considered to be in *conjunction* with each other[^1]. To discuss this Jerry character further, the above statements
 would look like this on *The Sheet of Assertion*, our writable surface.
 
 ![The Jerry discussion is not displayable.](./images/JerryDiscussion.png)
@@ -28,13 +28,22 @@ As a result of the statements being considered *conjuncts*, as in they are in co
  the *and* was removed. Otherwise, the sentence 
 "I have a cat, and this cat's name is Jerry," and the above Sheet of Assertion are equivalent in meaning. 
 
-Alone, this is not too powerful[^1]. 
+Alone, this is not too powerful[^2]. 
 If, once, you were in a hurry and forgot a conjunction or two in writing something down, it could
-be said that you developed your own Sheet of Assertion. **Why does this matter?**
+be said that you developed your own Sheet of Assertion. 
+
+**Why does this matter?**
 
 If we had some compact way of representing statements on the sheet, we would be able to store and evaluate the whole truth
 of some large collection of statements at once. Chapter 1.2 details this compact representation in discussing The Atom.
 
-[^1] Of note now, but not worth detailing yet, is that other logics use the symbol ∧ to denote conjunctions. This is
+[^1] An interesting consequence of this is that these statements do not have to be in any particular spatial relationship
+aside from being on the same sheet at the same time. 
+No statement must necessarily be visible to the eye, evidenced in PMH's Draw and Proof Modes. 
+No statement must necessarily be next to a related statement in position, either. If some Sheet of Assertion was a thousand
+miles long, a statement written at mile 0 is still in conjunction with a statement written at mile 1,000.
+
+[^2] Of note now, but not worth detailing yet, is that other logics use the symbol ∧ to denote conjunctions
+(not uppercase lambda!) This is
 one example of several in the EG System where the set of symbols was cut down. This assists in an otherwise complex 
-process of understanding what one is even looking at in other logics.
+process of understanding what one is even looking at in all logics.
