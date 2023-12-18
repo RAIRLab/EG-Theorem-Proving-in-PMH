@@ -8,7 +8,7 @@
     - [The Cut](./Chapter1/chapter_1.md)
     - [Conjunctions between Symbols](./Chapter1/chapter_1.md)
     - [Rules of Equivalence](./Chapter1/chapter_1.md)
-    - [Rules of Inference](./Chapter1/chapter_1.md)
+    - [Rules of Inference]   (./Chapter1/chapter_1.md)
     - [What AEGs Can and Cannot Model](./Chapter1/chapter_1.md)
     - [Conclusion](./Chapter1/chapter_1.md)
 
