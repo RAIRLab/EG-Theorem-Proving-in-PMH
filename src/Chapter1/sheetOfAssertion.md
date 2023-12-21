@@ -25,7 +25,7 @@ would look like this on *The Sheet of Assertion*, our writable surface.
 ![The Jerry discussion is not displayable.](./images/JerryDiscussion.png)
 
 As a result of the statements being considered *conjuncts*, as in they are in conjunction with each other,
- the *and* was removed. Otherwise, the sentence 
+the *and* was removed. Otherwise, the sentence 
 "I have a cat, and this cat's name is Jerry," and the above Sheet of Assertion are equivalent in meaning. 
 
 Alone, this is not too powerful[^2]. 

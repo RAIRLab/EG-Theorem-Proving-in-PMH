@@ -5,9 +5,9 @@ representations certainly is.
 
 An *atom* here is an indivisible component of some statement that may be true or may be false. For example, I may say that
 
-```I have a cat = C```
+I have a cat \\(  = C \\)
 
-```This cat's name is Jerry = J```
+This cat's name is Jerry \\(  = J \\)
 
 And change our Sheet of Assertion accordingly. This is allowed because we may replace C with "I have a cat" and we may
 replace J with "This cat's name is Jerry" at any time. They are equal!
@@ -27,10 +27,10 @@ in Chapter 1. We are concerned with *how* statements are determined as true or f
 or false. 
 
 If you find yourself a bit confused, think about something as simple as addition. Adding two numbers and receiving their sum
-has worked for all numbers in your head. ```1 + 1 = 2``` is never going to suddenly turn into ```1 + 1 = 43``` if you look
+has worked for all numbers in your head. \\( 1 + 1 = 2 \\) is never going to suddenly turn into \\(1 + 1 = 43 \\) if you look
 at the equation the wrong way. There are rules that are repeatable regardless of who is using the rule, when, how and why. 
-We can plug numbers into ```number + number``` for the rest of time and catalogue their sums if we choose. 
-Every sum received will be equal to ```number + number```. The point is that we are concerned
+We can plug numbers into \\( number + number = sum \\) for the rest of time and catalogue their sums if we choose. 
+Every sum received will be equal to \\( number + number \\). The point is that we are concerned
 with forming rules that work for certain parameters, and less so with applying them.
 
 We say that the statement (C and J), as in, (I have a cat and This cat's name is Jerry), 
