@@ -1,6 +1,11 @@
 [book]
+title = "Existential Graph Theorem Proving in PMH"
 authors = ["James Oswald, RAIR Lab, Ryan Reilly"]
+description = "For understanding and proving with AEGs and PMH."
 language = "en"
 multilingual = false
 src = "src"
-title = "Existential Graph Theorem Proving in PMH"
+
+[output.html]
+git-repository-url = "https://github.com/RAIRLab/EG-Theorem-Proving-in-PMH"
+mathjax-support = true
